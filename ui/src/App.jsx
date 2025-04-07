@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <h1>ViQa - Voice Insurance Quoting Agent</h1>
+      <h1>Viqa - Voice Insurance Quoting Agent</h1>
       <VoiceInput />
     </>
   )
