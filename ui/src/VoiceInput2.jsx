@@ -1,7 +1,7 @@
 // React component example (VoiceInput.jsx)
 import { useState } from 'react';
 
-export default function VoiceInput() {
+export default function VoiceInputTest() {
   const [isRecording, setIsRecording] = useState(false);
   const [transcript, setTranscript] = useState('');
   const [quote, setQuote] = useState(null);

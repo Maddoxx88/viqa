@@ -2,7 +2,7 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
-import VoiceInput from './VoiceInput'
+import VoiceInput from './components/VoiceInput'
 
 function App() {
 
