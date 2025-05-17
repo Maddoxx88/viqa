@@ -14,6 +14,9 @@ A voice-enabled insurance quoting application with a React frontend and Node.js 
 
 ## 📁 Project Structure
 
+viqa
+front end 
+api
 
 ---
 
